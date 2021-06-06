@@ -1,7 +1,7 @@
 const authConfig = {
-  "siteName": "GoIndex", // 网站名称
+  "siteName": "夏晴天の部屋!", // 网站名称
   "version": "_4.28", // 程序版本。用户不要手动修改
-  /*"client_id": "202264815644.apps.googleusercontent.com",
+  /*"client_id": "202264815644.ap0dOy7Tjm0y5fgCgYIARAAGA0SNwFps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",*/
   // 【注意】强烈推荐使用自己的 client_id 和 client_secret
   "client_id": "",
@@ -23,13 +23,13 @@ const authConfig = {
   "roots": [
     {
       id: "root",
-      name: "个人盘"
+      name: "个人空间"
     },
     {
       id: "drive_id",
-      name: "团队盘1",
-      user: 'user1',
-      pass: "111",
+      name: "夏晴天の部屋!",
+      user: 'xiaqingtian',
+      pass: "xiaqingtian",
       protect_file_link: true
     },
     {
